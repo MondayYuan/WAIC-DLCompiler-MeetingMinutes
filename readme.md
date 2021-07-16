@@ -14,4 +14,5 @@
 - [刁岚松：我在WAIC 编译框架闭门论坛上的一些观点总结](https://zhuanlan.zhihu.com/p/388415328?utm_source=wechat_session&utm_medium=social&s_r=0)
 - [淡孝强：tvm or mlir ?](https://zhuanlan.zhihu.com/p/388452164?utm_source=wechat_session&utm_medium=social&s_r=0)
 - [关于深度学习框架的一些自己见解](https://zhuanlan.zhihu.com/p/375634204?utm_source=wechat_session&utm_medium=social&utm_oi=28266941382656&wechatShare=1&s_r=0)
+- [张洪斌：我眼中的深度学习编译器](https://zhuanlan.zhihu.com/p/389429818)
 
